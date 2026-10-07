@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1791371756 source:c:\users\saifd\onedrive\dokumenti\probleme_string\main.cpp
+	<iostream>
+	<chrono>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<iomanip>
+
